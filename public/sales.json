@@ -1,0 +1,139 @@
+[
+    {
+        "month": "January",
+        "data": [
+            {
+                "name": "personalWebsite",
+                "value": 2000
+            },
+            {
+                "name": "google",
+                "value": 5000
+            },
+            {
+                "name": "other",
+                "value": 1800
+            }
+        ]
+    },
+    {
+        "month": "February",
+        "data": [
+            {
+                "name": "personalWebsite",
+                "value": 1800
+            },
+            {
+                "name": "google",
+                "value": 4500
+            },
+            {
+                "name": "other",
+                "value": 1200
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "name": "personalWebsite",
+                "value": 100
+            },
+            {
+                "name": "google",
+                "value": 5200
+            },
+            {
+                "name": "other",
+                "value": 1800
+            }
+        ]
+    },
+    {
+        "month": "April",
+        "data": [
+            {
+                "name": "personalWebsite",
+                "value": 2400
+            },
+            {
+                "name": "google",
+                "value": 4800
+            },
+            {
+                "name": "other",
+                "value": 2100
+            }
+        ] 
+    },
+    {
+        "month": "May",
+        "data": [
+            {
+                "name": "personalWebsite",
+                "value": 2100
+            },
+            {
+                "name": "google",
+                "value": 5200
+            },
+            {
+                "name": "other",
+                "value": 1900
+            }
+        ] 
+    },
+    {
+        "month": "June",
+        "data": [
+            {
+                "name": "personalWebsite",
+                "value": 1900
+            },
+            {
+                "name": "google",
+                "value": 4500
+            },
+            {
+                "name": "other",
+                "value": 1600
+            }
+        ] 
+    },
+    {
+        "month": "July",
+        "personalWebsite": 2300,
+        "google": 5100,
+        "other": 1800
+    },
+    {
+        "month": "August",
+        "personalWebsite": 2200,
+        "google": 4700,
+        "other": 2000
+    },
+    {
+        "month": "September",
+        "personalWebsite": 2100,
+        "google": 4900,
+        "other": 1700
+    },
+    {
+        "month": "October",
+        "personalWebsite": 2300,
+        "google": 5300,
+        "other": 1900
+    },
+    {
+        "month": "November",
+        "personalWebsite": 2500,
+        "google": 5100,
+        "other": 2200
+    },
+    {
+        "month": "December",
+        "personalWebsite": 2200,
+        "google": 4800,
+        "other": 2000
+    }
+]
